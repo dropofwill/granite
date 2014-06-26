@@ -16,10 +16,10 @@
     "generate-salts": true
   },
   "autoload": {
-    "psr-0": {"Granite\\Installer": "scripts"}
+    "psr-0": {"Granite\\Installer": "config"}
   },
   "scripts": {
-    "post-root-package-install": ["Granite\\Installer::addSalts"]
+    "post-package-install": ["Granite\\Installer::addSalts"]
   },
 
 
