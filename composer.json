@@ -1,0 +1,13 @@
+{
+    "name": "dropofwill/granite",
+    "description": "A solid composer base for Wordpress theme development",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Will Paul",
+            "email": "me@will-paul.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
