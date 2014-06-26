@@ -6,7 +6,7 @@ A Composer based setup for Wordpress theme development, borrowing heavily from B
 ### Composer Setup Explained 
 **Section 1** (Name - Authors): Basic meta data and a GPL3 license
 
-**Section 2 **(Config - Scripts): Prefer installing from a stable distrubution & add salts to the end of the .env file when finished installing.
+**Section 2** (Config - Scripts): Prefer installing from a stable distrubution & add salts to the end of the .env file when finished installing.
 
 **Section 3** (Repositories): Set up non-Packagist repos: WPackigist (a mirror of the wordpress plugins/themes) and a custom one for the WP core. This is where you would change WP versions.
 
