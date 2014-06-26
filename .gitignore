@@ -1,3 +1,6 @@
+.DS_Store
+Rakefile
+
 # WordPress
 web/wp
 web/.htaccess
