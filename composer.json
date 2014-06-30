@@ -15,12 +15,6 @@
     "preferred-install": "dist",
     "generate-salts": true
   },
-  "autoload": {
-    "psr-0": {"Granite\\Installer": "config"}
-  },
-  "scripts": {
-    "post-package-install": ["Granite\\Installer::addSalts"]
-  },
 
 
   "repositories": [
