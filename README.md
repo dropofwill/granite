@@ -3,7 +3,7 @@ granite
 
 A Composer based setup for Wordpress theme development, borrowing heavily from Bedrock.
 
-### Composer Setup Explained 
+### Composer.json Setup Explained 
 **Section 1** (Name - Authors): Basic meta data and a GPL3 license
 
 **Section 2** (Config - Scripts): Prefer installing from a stable distrubution & add salts to the end of the .env file when finished installing.
