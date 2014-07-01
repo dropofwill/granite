@@ -1,5 +1,6 @@
 .DS_Store
 Rakefile
+composer.lock
 
 # WordPress
 web/wp
